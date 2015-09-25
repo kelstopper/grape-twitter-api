@@ -29,7 +29,7 @@ module Twitter
         optional :limit, type: Integer, default: 2000
       end
       get do
-        hashtag_count[0..9].to_h
+        hashtag_count[0..9]
       end
     end
   end
