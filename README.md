@@ -10,7 +10,7 @@ Requires environment variables to be set in .bashrc or .bash_profile
 
 ```
 
-#runing
+#running
 
 ```bash
 
